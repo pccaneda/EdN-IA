@@ -26,3 +26,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex017 | Calculadora de Comissão | [Solução](./Ex017/calculadora_comissao.py) |
 | Ex018 | Calculadora de Média Escolar com Input | [Solução](./Ex018/calculadora_media.py) |
 | Ex019 | Calculadora de Operações Elementares | [Solução](./Ex019/calculadora_elementar.py) |
+| Ex020 | Calculadora de Média da Turma | [Solução](./Ex020/calculadora_media_turma.py) |
