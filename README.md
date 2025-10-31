@@ -25,3 +25,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex016 | Verificador de Ano Bissexto | [Solução](./Ex016/verificador_bissexto.py) |
 | Ex017 | Calculadora de Comissão | [Solução](./Ex017/calculadora_comissao.py) |
 | Ex018 | Calculadora de Média Escolar com Input | [Solução](./Ex018/calculadora_media.py) |
+| Ex019 | Calculadora de Operações Elementares | [Solução](./Ex019/calculadora_elementar.py) |
