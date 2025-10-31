@@ -22,3 +22,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex013 | Classificador de Idade | [Solução](./Ex013/classificador_idade.py) |
 | Ex014 | Calculadora de IMC | [Solução](./Ex014/calculadora_imc.py) |
 | Ex015 | Conversor de Temperatura | [Solução](./Ex015/conversor_temperatura.py) |
+| Ex016 | Verificador de Ano Bissexto | [Solução](./Ex016/verificador_bissexto.py) |
