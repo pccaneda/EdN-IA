@@ -19,3 +19,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex010 | Calculadora de Soma com Input | [Solução](./Ex010/calculadora_soma_com_input.py) |
 | Ex011 | Calculadora de Salário | [Solução](./Ex011/calculadora_salarial.py) |
 | Ex012 | Área do Círculo | [Solução](./Ex012/area_circulo.py) |
+| Ex013 | Classificador de Idade | [Solução](./Ex013/classificador_idade.py) |
