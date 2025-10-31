@@ -20,3 +20,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex011 | Calculadora de Salário | [Solução](./Ex011/calculadora_salarial.py) |
 | Ex012 | Área do Círculo | [Solução](./Ex012/area_circulo.py) |
 | Ex013 | Classificador de Idade | [Solução](./Ex013/classificador_idade.py) |
+| Ex014 | Calculadora de IMC | [Solução](./Ex014/calculadora_imc.py) |
