@@ -12,3 +12,9 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex003 | Calculadora de Volume | [Solução](./Ex003/calculadora_volume.py) |
 | Ex004 | Calculadora de Preço Total | [Solução](./Ex004/calculadora_preco_total.py) |
 | Ex005 | Calculadora de Inteiros | [Solução](./Ex005/calculadora_inteiros.py) |
+| Ex006 | Conversor Monetário | [Solução](./Ex006/conversor_monetario.py) |
+| Ex007 | Calculadora de Desconto | [Solução](./Ex007/calculadora_desconto.py) |
+| Ex008 | Calculadora de Média Escolar | [Solução](./Ex008/calculadora_media_escolar.py) |
+| Ex009 | Calculadora de Consumo de Combustível | [Solução](./Ex009/calculadora_consumo_combustivel.py) |
+| Ex010 | Calculadora de Soma com Input | [Solução](./Ex010/calculadora_soma_com_input.py) |
+| Ex011 | Calculadora de Salário | [Solução](./Ex011/calculadora_salarial.py) |
