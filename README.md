@@ -18,3 +18,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex009 | Calculadora de Consumo de Combustível | [Solução](./Ex009/calculadora_consumo_combustivel.py) |
 | Ex010 | Calculadora de Soma com Input | [Solução](./Ex010/calculadora_soma_com_input.py) |
 | Ex011 | Calculadora de Salário | [Solução](./Ex011/calculadora_salarial.py) |
+| Ex012 | Área do Círculo | [Solução](./Ex012/area_circulo.py) |
