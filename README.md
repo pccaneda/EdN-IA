@@ -23,3 +23,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex014 | Calculadora de IMC | [Solução](./Ex014/calculadora_imc.py) |
 | Ex015 | Conversor de Temperatura | [Solução](./Ex015/conversor_temperatura.py) |
 | Ex016 | Verificador de Ano Bissexto | [Solução](./Ex016/verificador_bissexto.py) |
+| Ex017 | Calculadora de Comissão | [Solução](./Ex017/calculadora_comissao.py) |
