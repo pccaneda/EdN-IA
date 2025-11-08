@@ -29,3 +29,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex020 | Calculadora de Média da Turma | [Solução](./Ex020/calculadora_media_turma.py) |
 | Ex021 | Validador de Senhas | [Solução](./Ex021/validador_senha.py) |
 | Ex022 | Contador de Números Pares e Ímpares | [Solução](./Ex022/contador_par_impar.py) |
+| Ex023 | Calculadora de Gorjeta | [Solução](./Ex023/calculadora_gorjeta.py) |
