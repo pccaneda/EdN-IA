@@ -31,3 +31,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex022 | Contador de Números Pares e Ímpares | [Solução](./Ex022/contador_par_impar.py) |
 | Ex023 | Calculadora de Gorjeta | [Solução](./Ex023/calculadora_gorjeta.py) |
 | Ex024 | Verificador de Palíndromos | [Solução](./Ex024/verificador_palindromo.py) |
+| Ex025 | Calculadora de Descontos | [Solução](./Ex025/calculadora_desconto.py) |
