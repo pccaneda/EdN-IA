@@ -35,3 +35,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex026 | Calculadora de Idade em Dias | [Solução](./Ex026/calculadora_idade_dias.py) |
 | Ex027 | Gerador de Senhas | [Solução](./Ex027/gerador_senha.py) |
 | Ex028 | Gerador de Perfil de Usuário | [Solução](./Ex028/gerador_perfil.py) |
+| Ex029 | Buscador de Endereço via CEP | [Solução](./Ex029/buscador_cep.py) |
