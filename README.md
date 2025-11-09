@@ -36,3 +36,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex027 | Gerador de Senhas | [Solução](./Ex027/gerador_senha.py) |
 | Ex028 | Gerador de Perfil de Usuário | [Solução](./Ex028/gerador_perfil.py) |
 | Ex029 | Buscador de Endereço via CEP | [Solução](./Ex029/buscador_cep.py) |
+| Ex030 | Consultor de Câmbio | [Solução](./Ex030/consultor_cambio.py) |
