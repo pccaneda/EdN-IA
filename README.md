@@ -34,3 +34,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex025 | Calculadora de Descontos | [Solução](./Ex025/calculadora_desconto.py) |
 | Ex026 | Calculadora de Idade em Dias | [Solução](./Ex026/calculadora_idade_dias.py) |
 | Ex027 | Gerador de Senhas | [Solução](./Ex027/gerador_senha.py) |
+| Ex028 | Gerador de Perfil de Usuário | [Solução](./Ex028/gerador_perfil.py) |
