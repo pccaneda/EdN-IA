@@ -39,3 +39,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex030 | Consultor de Câmbio | [Solução](./Ex030/consultor_cambio.py) |
 | Ex031 | Analisador de Tempo de Treinamento | [Solução](./Ex031/analisador_treinamento.py) |
 | Ex032 | Escritor de CSV | [Solução](./Ex032/escreve_csv.py) |
+| Ex033 | Leitor de CSV | [Solução](./Ex033/leitor_csv.py) |
