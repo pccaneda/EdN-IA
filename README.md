@@ -38,3 +38,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex029 | Buscador de Endereço via CEP | [Solução](./Ex029/buscador_cep.py) |
 | Ex030 | Consultor de Câmbio | [Solução](./Ex030/consultor_cambio.py) |
 | Ex031 | Analisador de Tempo de Treinamento | [Solução](./Ex031/analisador_treinamento.py) |
+| Ex032 | Escritor de CSV | [Solução](./Ex032/escreve_csv.py) |
