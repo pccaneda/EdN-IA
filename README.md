@@ -40,4 +40,4 @@ Este repositório é para a entrega dos exercícios exigidos durante o curso **F
 | Ex031 | Analisador de Tempo de Treinamento | [Solução](./Ex031/analisador_treinamento.py) |
 | Ex032 | Escritor de CSV | [Solução](./Ex032/escreve_csv.py) |
 | Ex033 | Leitor de CSV | [Solução](./Ex033/leitor_csv.py) |
-| Ex034 | Escritor e Leitor de JSON | [Solução](./Ex033/escreve_le_json.py) |
+| Ex034 | Escritor e Leitor de JSON | [Solução](./Ex034/escreve_le_json.py) |
